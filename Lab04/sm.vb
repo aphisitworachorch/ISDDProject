@@ -1,4 +1,8 @@
-﻿Public Class IXB
+﻿Public Class sm
+    Private Sub sm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
 
     Public Shared Function NumberToText(ByVal pAmount As Double) As String
         ' TEXT '
